@@ -114,16 +114,6 @@ padding-left: 25px;
  .notification-container:hover {
      opacity: 1;
  }
- .notification-alert {
-    position: absolute;
-    right: 15px;
-    top: -5px;
-    background-color: red;
-    padding: 0px 4px;
-    border-radius: 50%;
-    color: white;
-    opacity: 1;
- }
  .TryPremium{
     font-size: smaller;
  }
